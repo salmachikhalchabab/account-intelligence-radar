@@ -1,0 +1,24 @@
+# ── Core ──
+requests~=2.32.3
+python-dotenv~=1.0.1
+
+# ── API & Web ──
+fastapi~=0.111.0
+uvicorn~=0.30.0
+python-multipart~=0.0.9
+
+# ── Database ──
+SQLAlchemy~=2.0.49
+
+# ── Auth & Security ──
+python-jose~=3.5.0
+passlib~=1.7.4
+argon2-cffi~=23.1.0
+
+# ── Data Validation ──
+pydantic~=2.7.1
+email-validator~=2.2.0
+
+# ── Services ──
+firecrawl~=4.22.2
+reportlab~=4.2.2
